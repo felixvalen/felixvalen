@@ -1,4 +1,4 @@
-![Felix Banner](##)
+![Felix Banner](https://media.licdn.com/dms/image/v2/D4D16AQF8ahb4-9kDrQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725895751589?e=1733961600&v=beta&t=lgBBMfcQMXcyeh2G-1Xk794G3H4sI1mW6ludav2cJ0Q)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Felix Valencia</h2>
 
@@ -6,13 +6,14 @@
 
 ### 👨🏻‍💻 &nbsp;Know Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
+💡 I like exploring new technologies and developing software solutions and quick hacks.\
+🎓 I'm currently studying the IBM Data Science certificate.\
+🌱 I'm on my way to learn more about Artificial Intelligence and Machine Learning.\
+✍️ I like to spend my free time with my family.\
+💬 Feel free to contact me with any questions you may have.\
+✉️ You can email me at fvhvalencia@gmail.com! I'll get back to you as soon as possible.\
+📄 Check out my resume for more details about me and for more information, please contact me.\
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -36,7 +37,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/felixvalen">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -45,13 +46,11 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<br>
+
+[![@guille_fvh](https://img.icons8.com/fluency/48/000000/instagram-new.png "@guille_fvh")](https://www.instagram.com/guille_fvh/) [![@felix-guillermo-valencia-henry/](https://img.icons8.com/fluency/48/000000/linkedin.png "@felix-guillermo-valencia-henry/")](https://www.linkedin.com/in/felix-guillermo-valencia-henry/) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+34626285987")](tel:+34626285987) [![@fvhvalenciagmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@fvhvalenciagmail.com")](fvhvalenciagmail.com)
+
+<br>
 </p>
 
 -----
