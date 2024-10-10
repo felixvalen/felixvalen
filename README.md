@@ -47,14 +47,6 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<br>
-
-[![@guille_fvh](https://img.icons8.com/fluency/48/000000/instagram-new.png "@guille_fvh")](https://www.instagram.com/guille_fvh/) [![@felix-guillermo-valencia-henry/](https://img.icons8.com/fluency/48/000000/linkedin.png "@felix-guillermo-valencia-henry/")](https://www.linkedin.com/in/felix-guillermo-valencia-henry/) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+34626285987")](tel:+34626285987) [![@fvhvalenciagmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@fvhvalenciagmail.com")](fvhvalenciagmail.com)
-
-<br>
-</p>
 
 -----
