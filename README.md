@@ -1,6 +1,10 @@
 ![Felix Banner](https://media.licdn.com/dms/image/v2/D4D16AQF8ahb4-9kDrQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725895751589?e=1733961600&v=beta&t=lgBBMfcQMXcyeh2G-1Xk794G3H4sI1mW6ludav2cJ0Q)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Felix Valencia</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/felix-guillermo-valencia-henry/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="felixvalen"/></a>
+<a href = "mailto:fvhvalencia@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@felixvalen"  /></a>
+  </p>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Felix! -->
 
